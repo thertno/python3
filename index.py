@@ -9,3 +9,4 @@ master gray head reset pull push origin git add git commit
 
 asdasd
 
+C6
