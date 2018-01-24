@@ -9,9 +9,4 @@ else:
     pass
 
 
-try:
-    pass
-except expression as identifier:
-    pass
-finally:
-    pass
+test hello cc
