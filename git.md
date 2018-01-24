@@ -16,6 +16,7 @@
 * 撤消对文件的修改`git checkout -- <file>`
 ### 4. 分支
 * [分支创建与合并参考](https://git-scm.com/book/zh/v2/Git-分支-分支的新建与合并)
+* 创建一个新分支`git checkout -b iss53`
 * 删除某一分支`git branch -d hotfix`
 * 查看分支详细信息`git branch -v`
 * 查看哪些分支已经合并到当前分支`git branch --merged`
